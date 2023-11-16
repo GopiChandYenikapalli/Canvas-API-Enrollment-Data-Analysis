@@ -18,7 +18,7 @@ pandas
 
 ## Usage
 Clone the repository:
-git clone https://github.com/yourusername/canvas-enrollment-analysis.git
+git clone [https://github.com/yourusername/canvas-enrollment-analysis.git](https://github.com/GopiChandYenikapalli/Canvas-API-Enrollment-Data-Retrieval-and-Analysis.git)
 
 Install dependencies:
 pip install -r requirements.txt
