@@ -34,9 +34,11 @@ The script will fetch the data, organize it, and save it to a CSV file #### (enr
 Make sure to replace the Your Access token key with a valid Canvas API access token. If you don't have one, follow the Canvas API documentation to obtain it.
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
+
 This script was developed for educational and demonstrational purposes.
 
 Canvas API documentation: Canvas LMS API
