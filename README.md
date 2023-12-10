@@ -1,4 +1,4 @@
-# Canvas API Enrollment Data Retrieval and Analysis
+# Canvas Course Enrollment Data Retrieval and Analysis using API
 ## Overview
 This repository contains a Python script for retrieving enrollment data from the Canvas API for a specific course and organizing it into a CSV file. The script utilizes the Canvas API to fetch enrollment details, including user information, roles, last activity, and grades.
 
